@@ -1,0 +1,76 @@
+body{
+   background: black
+}
+
+.inverse{
+   opacity: 50%;
+   -webkit-text-fill-color: blue;
+ }
+
+.test{
+   position: absolute;
+   top: 30%;
+   bottom: 30%;
+}
+
+#upper{
+margin-bottom: 80%;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+#baritem, h1{
+   /* font-family: 'Orbitron', sans-serif; */
+   font-family: 'Audiowide', cursive;
+}
+
+#slidebutton{
+ -webkit-text-fill-color: rgb(211, 94, 35);
+ background-color: black;
+ border-color:rgb(211, 94, 35);
+}
+
+#pushbutton{
+   -webkit-text-fill-color: black;
+   background-color:rgb(211, 94, 35) ;
+   border-color: black;
+}
+
+.title{
+   background-color: black;
+   -webkit-text-fill-color: rgb(211, 94, 35);
+   margin-top: 37px;
+   
+   
+}
+
+.aboutme{
+   -webkit-text-fill-color: rgb(211, 94, 35);
+   text-decoration: underline solid rgb(211, 94, 35) ;
+}
+
+p, h3{
+   -webkit-text-fill-color: white;
+}
+
+#fadein{
+   opacity: 0%;
+}
+
+.aboutcontainer{
+   padding-left: 15%;
+   padding-right: 15%;
+   position: relative;
+  
+}
+
+.rightnav{
+float: right;
+}
